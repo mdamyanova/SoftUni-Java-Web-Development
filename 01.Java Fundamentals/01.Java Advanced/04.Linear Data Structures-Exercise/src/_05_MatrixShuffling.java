@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _06_MatrixShuffling {
+public class _05_MatrixShuffling {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
